@@ -37,3 +37,11 @@ C:\Program Files (x86)\XCP-ng Center\Plugins\xcp-ng.org\xcpng.report\xcpng.repor
 ```
 
 Might require to install Dotnet Framework.
+
+
+### Launch
+
+From within XCP-ng Center --> View --> Guest Tools Report (PS)
+
+![xcp-ng-report](https://user-images.githubusercontent.com/1071741/133763136-0f1edb2d-a40b-44f6-82cf-ea7ccb2dbdcf.png)
+
